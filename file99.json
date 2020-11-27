@@ -1,2 +1,3 @@
 feature abc
 git pull example
+git fetch example
